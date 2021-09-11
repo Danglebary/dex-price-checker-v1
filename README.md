@@ -1,4 +1,4 @@
-# dex-price-dapp-v1
+# dex-price-checker-v1
 A simple web app for live feed token prices from different decentralized exchanges on the Polygon (Matic) network.
 
 - Backend written in python
